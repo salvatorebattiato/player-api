@@ -1,4 +1,4 @@
-# Playlist service: skips to the next track in setlist
+# Control service: skips to the next track in setlist
     GET nextTrack
 
 ## Description
