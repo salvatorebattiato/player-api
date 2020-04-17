@@ -4,7 +4,7 @@
 ## Description
 
 Get an array with all available tracks to play in the selected playlist.
-The plid should be sent as received after the getPlaylists request.
+The plid should be sent as received after the getPlaylists request. This request should be performed at least once every 30s if in dynamic playlist mode, or once before the start to load tracklist in static playlist mode.
 
 ***
 ## Parameters
@@ -14,7 +14,7 @@ The plid should be sent as received after the getPlaylists request.
 
 ## Behavior
 
-A call to this api will immediately start the music player service in the backend. No further play toggle is required.
+A call to this api **will NOT** immediately start the music player service in the backend. A further play toggle api call is required.
 ***
 
 ## Example
