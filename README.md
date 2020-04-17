@@ -6,4 +6,4 @@ The simple commands user can choose in this minimal UI should be sent over a loc
 
 ## Requirements
 The framework where this webapp will run will be a full-screen one-tab web browser and displayed over two HDMI outputs at the same time: a TV and a 5" TFT display on the front of the device which will be always on. Both will be 16:9 landscape monitors.<br>
-Inputs are taken from a remote that will behave like a legacy keyboard so all the hover effects and control commands of the webapp should be done taking in account the fact that there won't be any mouse input but just a keyboard input sending ">", "p", "<spacebar>" and so on.<br>
+Inputs are taken from a remote that will behave like a legacy keyboard so all the hover effects and control commands of the webapp should be done taking in account the fact that there won't be any mouse input but just a keyboard input sending ">", "p", spacebar and so on.<br>
