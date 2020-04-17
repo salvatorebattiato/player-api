@@ -1,4 +1,4 @@
-# Playlist service: Stop Playing Service
+# Control service: Stop Playing Service
     GET stopPlaying
 
 ## Description
