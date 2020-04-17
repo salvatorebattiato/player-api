@@ -4,7 +4,7 @@
 ## Description
 
 Get an array with all available tracks to play in the selected playlist.
-The plid should be the same as received after the getPlaylists request.
+The plid should be sent as received after the getPlaylists request.
 
 ***
 ## Parameters
