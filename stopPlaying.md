@@ -3,7 +3,7 @@
 
 ## Description
 
-This simple api call stops music player daemon and empty loaded setlist. This should be done everytime user wants to go back to the main screen.
+This simple api call stops music player daemon and empty loaded setlist in the backend. This should be done everytime user wants to go back to the main screen.
 
 ## Example
 **Request**
