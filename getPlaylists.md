@@ -18,6 +18,7 @@ This is the same ID that should be passed as an argument when the playlist is go
 **Return**
 ```json
 {
+    "status": "success",
     "items_count": 4,
     "playlists": [
         {
