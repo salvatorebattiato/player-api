@@ -1,4 +1,4 @@
-# Playlist service: Toggle Play/Pause
+# Control service: Toggle Play/Pause
     GET togglePlay
 
 ## Description
