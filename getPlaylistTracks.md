@@ -12,6 +12,11 @@ The plid should be sent as received after the getPlaylists request.
 > + `plid` - _required_ : Playlist ID (String)
 ***
 
+## Behavior
+
+A call to this api will immediately start the music player service in the backend. No further play toggle is required.
+***
+
 ## Example
 **Request**
     http://localhost:5000/getPlaylistTracks?service=Tidal&plid=498c9320-062e-4939-bb9c-e1446fa2cdb7
