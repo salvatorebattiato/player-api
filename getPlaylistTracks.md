@@ -1,10 +1,10 @@
-# Playlist service: GET Playlist List
-    GET getPlaylists
+# Playlist service: GET Playlist Tracks
+    GET getPlaylistTracks
 
 ## Description
 
-Get an array with all available playlists to play along with their unique ID.
-This is the same ID that should be passed as an argument when the playlist is going to be played.
+Get an array with all available tracks to play in the selected playlist.
+The plid should be the same as received after the getPlaylists request.
 
 ***
 ## Parameters
