@@ -16,7 +16,7 @@ When this api is called for a service, user is able to find device as an endpoin
 
 ## Example
 **Request**
-    http://localhost:5000/startService
+    http://localhost:5000/startService?service=UPnP
     
 **Return**
 ```json
