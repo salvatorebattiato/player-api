@@ -9,7 +9,7 @@ The plid should be sent as received after the getPlaylists request. This request
 ***
 ## Parameters
 > + `service` - _required_ : Streaming Service Name (Valid names are Tidal, Qobuz or Local)
-> + `plid` - _required_ : Playlist ID (String)
+> + `plid` - _required_ : Playlist ID (Can be set to AUTO if user selected Dynamic Mode. For more informations [Playlist Modes](PLAYLISTMODE.md))
 ***
 
 ## Behavior
