@@ -3,7 +3,7 @@
 
 ## Description
 
-This simple api call starts the service daemon so user can find device in its favorite apps.
+This simple api call starts a specific service daemon so user can find device in its favorite apps.
 
 ## Behavior
 
